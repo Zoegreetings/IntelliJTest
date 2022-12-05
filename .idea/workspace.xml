@@ -7,6 +7,7 @@
     <list default="true" id="83690fd5-4b37-4197-ae9d-175284cbbf70" name="Changes" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AEntity.java" afterDir="false" />
 =======
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
@@ -16,6 +17,8 @@
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
 >>>>>>> parent of d5e50b1 (push sub1)
+=======
+>>>>>>> parent of 91986ed (push sub1 getters)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
