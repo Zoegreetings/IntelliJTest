@@ -8,7 +8,4 @@ public class AEntity {
         this.id = id;
         this.name = name;
     }
-    public int getId() {
-        return id;
-    }
 }
